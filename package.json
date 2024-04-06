@@ -1,0 +1,26 @@
+{
+  "name": "nodejs18.16",
+  "version": "1.0.0",
+  "description": "A Basic Version Of Node Js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/one-numan/nodejs18.16.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "One Numan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/one-numan/nodejs18.16/issues"
+  },
+  "homepage": "https://github.com/one-numan/nodejs18.16#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
